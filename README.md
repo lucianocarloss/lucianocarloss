@@ -1,4 +1,4 @@
-##Olá eu sou Luciano Carlos
+##Hello i'm Luciano Carlos.
 
 - 😍 I’m currently working on Java.
 - 🧐 I’m currently learning web develope - HTML5, CSS, JavaScript, ReactJs, Node.
