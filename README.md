@@ -1,7 +1,7 @@
 ##Hello i'm Luciano Carlos.
 
-- 😍 I’m currently working on Java, HTML5, CSS, JavaScript.
-- 🧐 I’m currently learning web develope - Angular, NodeJs, C#.
+- 😍 I’m currently working on C#, .Net, Angular, JavaScript, TypeScript.
+- 🧐 I’m currently learning  - C#, Angular, NodeJs.
  <div>
   <a href="https://github.com/lucianocarloss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianocarloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
